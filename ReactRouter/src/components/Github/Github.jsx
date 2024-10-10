@@ -14,7 +14,7 @@ function Github()
   
     //  },[])
   return (
-    <div className='w-full h-screen bg-gray-200 auto text-center  text-white'>Github Followers:{data.followers}
+    <div className='w-full h-screen bg-gray-200 auto text-center  text-white'>Github Followers:{data.f}
     </div>
   )
 }
